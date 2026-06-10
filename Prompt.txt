@@ -1,0 +1,99 @@
+PROMPT 1:
+Provide the complete code for drawing a rectangle on a 20x50 canvas in C.
+
+RESPONSE:
+Generated code for drawRectangle() using loops to draw the top, bottom, left, and right sides.
+
+---
+
+PROMPT 2:
+Provide the complete code for drawing a triangle on the canvas.
+
+RESPONSE:
+Generated drawTriangle() function using nested loops.
+
+---
+
+PROMPT 3:
+Provide the complete code for drawing a circle using ASCII graphics.
+
+RESPONSE:
+Generated drawCircle() function using radius calculations.
+
+---
+
+PROMPT 4:
+Convert all shape code into separate functions.
+
+RESPONSE:
+Generated drawRectangle(), drawTriangle(), drawCircle(), drawDiamond(), and drawX() functions.
+
+---
+
+PROMPT 5:
+Make all shapes movable by taking row and column as input from the user.
+
+RESPONSE:
+Updated shape functions to accept row and column parameters.
+
+---
+
+PROMPT 6:
+Add a menu-driven interface for the graphics editor.
+
+RESPONSE:
+Generated switch-case based menu system.
+
+---
+
+PROMPT 7:
+Add a filled rectangle feature and provide the complete updated code.
+
+RESPONSE:
+Generated drawFilledRectangle() function and updated menu.
+
+---
+
+PROMPT 8:
+Add a clear canvas option.
+
+RESPONSE:
+Integrated initializeCanvas() with menu option for clearing the canvas.
+
+---
+
+PROMPT 9:
+Add a save canvas feature using file handling and provide complete code.
+
+RESPONSE:
+Generated saveCanvas() function using fopen(), fputc(), and fclose().
+
+---
+
+PROMPT 10:
+Add a load canvas feature using file handling.
+
+RESPONSE:
+Generated loadCanvas() function using fopen(), fgetc(), and fclose().
+
+---
+
+PROMPT 11:
+Explain Git commands and how to save project progress.
+
+RESPONSE:
+Provided git add, git commit, git status, and git log commands.
+
+---
+
+PROMPT 12:
+Provide complete updated code whenever a new feature is added.
+
+RESPONSE:
+Generated complete updated versions of the ACP Graphics Editor source code.
+
+PROMPT 13:
+Provide the complete updated code after adding a new feature.
+
+RESPONSE:
+Generated the complete updated source code integrating the new feature with the existing ACP Graphics Editor.
